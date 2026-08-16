@@ -1,0 +1,32 @@
+[
+  {
+    "codigo": "S-101",
+    "descricao": "Estufa de secagem",
+    "valor": 76.0,
+    "unidade": "F"
+  },
+  {
+    "codigo": "S-102",
+    "descricao": "Prensa hidraulica",
+    "valor": 82.4,
+    "unidade": "F"
+  },
+  {
+    "codigo": "S-103",
+    "descricao": "Esteira de saida",
+    "valor": 71.6,
+    "unidade": "F"
+  },
+  {
+    "codigo": "S-104",
+    "descricao": "Camara fria",
+    "valor": 39.2,
+    "unidade": "F"
+  },
+  {
+    "codigo": "S-210",
+    "descricao": "Vibracao do eixo principal",
+    "valor": 68.0,
+    "unidade": "F"
+  }
+]
