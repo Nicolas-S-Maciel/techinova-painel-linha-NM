@@ -1,0 +1,16 @@
+name: Verificacao das missoes
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  missoes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Conferir missoes
+        run: python3 .github/verificar.py
