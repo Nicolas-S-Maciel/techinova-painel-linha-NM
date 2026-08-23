@@ -1,0 +1,2 @@
+- [ ] Verificar legibilidade
+- [ ] Testes foram criados?
